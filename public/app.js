@@ -2849,7 +2849,7 @@ var _yoYo = _interopRequireDefault(require("yo-yo"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 function _templateObject() {
-  var data = _taggedTemplateLiteral(["\n<h1>hola Mundo</h1>\n"]);
+  var data = _taggedTemplateLiteral(["\n<article>\n <h1 class=\"titulo\">Fotograf\xEDa de Retrato en Exteriores</h1>\n <h2 class=\"detalle\">14 de julio de 2018</h2>\n <p>Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver. Looking down into the dark gulf below, I could see a ruddy light streaming through a rift in the clouds.</p>\n <h3 class=\"subtitulo\">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam enim at similique suscipit dolores libero, commodi iure? Neque, pariatur accusantium nisi saepe a corrupti autem vel. Atque commodi vitae laborum.</h3>\n</article>\n"]);
 
   _templateObject = function _templateObject() {
     return data;
